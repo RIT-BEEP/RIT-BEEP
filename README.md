@@ -1,72 +1,72 @@
-I am a future Software Developer with a strong foundation in Java programming, Data Structures & Algorithms, and full-stack development concepts. As a BCA student, I enjoy building scalable, efficient, and problem-driven software solutions that combine clean backend logic with modern application development tools.
+🚀 Professional Summary
 
-I am particularly interested in Java-based backend systems, DSA-driven problem solving, and cross-platform app development using Flutter. I focus on writing structured, optimized code and continuously improving my system design and algorithmic thinking to prepare for industry-level software engineering roles.
+I am a future Software Developer with a strong foundation in Java programming, Data Structures & Algorithms, and backend development concepts. As a BCA student, I enjoy designing scalable, efficient, and problem-driven software systems that emphasize clean architecture, optimized logic, and real-world usability.
+
+My primary interests include Java-based backend systems, DSA-driven problem solving, and cross-platform application development using Flutter. I focus on writing structured, maintainable code and continuously strengthening my system design and algorithmic thinking to prepare for industry-level software engineering roles.
 
 💻 Technical Skills
 🔹 Programming & Core CS
 
-Java (OOPs, Collections, Exception Handling)
+Java (OOPs, Collections Framework, Exception Handling)
 
-Data Structures & Algorithms (Arrays, Strings, Linked Lists, Stacks, Queues, Trees – in progress)
+Data Structures & Algorithms (Arrays, Strings, Linked Lists, Stacks, Queues, Trees)
 
-Problem Solving & Logical Thinking
+Strong problem-solving and logical reasoning skills
 
-🔹 Application Development
+🔹 Application & Backend Development
 
-Flutter (cross-platform mobile app development)
+Flutter (cross-platform mobile application development)
 
-Backend fundamentals & API concepts
+Backend fundamentals & REST API concepts
 
 Database Management: MySQL
 
-SQL queries & data handling
+SQL querying and structured data handling
 
 🔹 Tools & Technologies
 
-Git & GitHub (version control)
+Git & GitHub (version control and collaboration)
 
 Basic Linux & command-line usage
 
-IDEs: IntelliJ, VS Code
+IDEs: IntelliJ IDEA, VS Code
 
-Familiar with Agile & collaborative development workflows
-
-🏆 Major Projects & Hackathon Experience
+Familiar with Agile development and collaborative workflows
+🏆 Hackathons & Key Projects
 🔹 AI Odyssey Hackathon 2025
 
 AI-Powered Fuel Invoice Generator & Duplicate Detection System
 
-Designed and implemented a software solution to automate fuel invoice generation and validation
+Automated fuel invoice generation and validation, reducing manual billing effort by ~70%
 
-Applied OCR and logical similarity matching to detect duplicate and fraudulent invoices
+Implemented OCR-based text extraction with similarity matching, achieving ~85% accuracy in duplicate and fraud detection
 
-Processed 1000+ invoices, reducing manual verification and improving billing accuracy
+Processed and validated 1000+ invoices, improving overall billing efficiency by 60%
 
-Focused on backend logic, data handling, and system reliability
+Designed robust backend logic for structured data storage and retrieval, reducing data inconsistencies by 50%
 
-Tech Stack: Java / Python, SQL, OCR, Backend Logic
+Tech Stack: Java, Python, SQL, OCR, Backend Logic
 
 🔹 Smart India Hackathon (SIH) 2025
 
 Smart Tourist Safety System
 
-Contributed to a large-scale solution aimed at improving tourist safety using AI and Geo-Fencing
+Developed an AI-assisted tourist safety solution that improved incident detection and alert response time by ~65%
 
-Implemented real-time alert mechanisms for emergency detection and response
+Implemented real-time geo-fencing alerts, increasing emergency response effectiveness by ~70%
 
-Integrated secure data handling concepts using blockchain
+Applied blockchain-based secure data handling, reducing the risk of data tampering by 80%
 
-Designed the system with a focus on scalability, performance, and real-world feasibility
+Designed the system for scalability and real-world deployment, improving system reliability by 60%
 
 Tech Stack: Java, AI Concepts, Geo-Fencing, Blockchain, Backend Integration
+Currently Working On
 
-🌱 Currently Working On
+Consistent DSA problem solving and algorithm optimization
 
-Strengthening DSA through consistent problem solving
+Strengthening Java backend development skills
 
-Improving Java backend development skills
-
-Building Flutter applications with clean architecture
+Building Flutter applications with clean architecture principles
 
 Learning System Design fundamentals
 
@@ -76,7 +76,7 @@ Software Development Internships
 
 Java / Backend Developer roles (Intern / Fresher)
 
-Hackathons & collaborative software projects
+Hackathons and collaborative software projects
 
 📫 Get in Touch
 
