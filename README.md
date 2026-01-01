@@ -1,46 +1,87 @@
-# Hi, I'm Ritika Sohane 👋
+I am a future Software Developer with a strong foundation in Java programming, Data Structures & Algorithms, and full-stack development concepts. As a BCA student, I enjoy building scalable, efficient, and problem-driven software solutions that combine clean backend logic with modern application development tools.
 
-### Aspiring Data Analyst | BCA Student | Data Enthusiast
+I am particularly interested in Java-based backend systems, DSA-driven problem solving, and cross-platform app development using Flutter. I focus on writing structured, optimized code and continuously improving my system design and algorithmic thinking to prepare for industry-level software engineering roles.
 
----
+💻 Technical Skills
+🔹 Programming & Core CS
 
-## About Me
+Java (OOPs, Collections, Exception Handling)
 
-I'm passionate about unlocking insights from data to drive better decisions. As a BCA student specializing in data analysis, I enjoy working with Python, SQL, Excel, and data visualization tools to clean, analyze, and present data effectively.
+Data Structures & Algorithms (Arrays, Strings, Linked Lists, Stacks, Queues, Trees – in progress)
 
-- 🔍 Skilled in Data Cleaning, Statistical Analysis & Visualization  
-- 🐍 Experienced with Python libraries: Pandas, NumPy, Matplotlib, Seaborn  
-- 🗃 Proficient in SQL for data querying and manipulation  
-- 📊 Familiar with Tableau and Excel for creating interactive dashboards  
-- 🌱 Currently learning Machine Learning and Advanced Data Analytics  
-- 🤝 Open to internships, collaborative projects, and freelance opportunities
+Problem Solving & Logical Thinking
 
-🔭 Projects & Highlights
-CRM System
-Developed a Customer Relationship Management tool to store and manage customer data.
-Tools: PHP
+🔹 Application Development
 
-Tic-Tac-Toe Game
-Built a simple Tic Tac Toe game using Python, demonstrating basic programming concepts.
-Tools: Python
+Flutter (cross-platform mobile app development)
 
-Fuel Bill Generator
-Created a tool to generate fuel bills, showcasing practical application development.
-Tools: Python
+Backend fundamentals & API concepts
 
-Tower of Hanoi Solver
-Implemented a solution for the Tower of Hanoi problem, focusing on algorithmic problem-solving.
-Tools: Python
+Database Management: MySQL
 
+SQL queries & data handling
 
+🔹 Tools & Technologies
 
-Feel free to explore my repositories and reach out if you'd like to collaborate or chat about data!
- Get In Touch
+Git & GitHub (version control)
+
+Basic Linux & command-line usage
+
+IDEs: IntelliJ, VS Code
+
+Familiar with Agile & collaborative development workflows
+
+🏆 Major Projects & Hackathon Experience
+🔹 AI Odyssey Hackathon 2025
+
+AI-Powered Fuel Invoice Generator & Duplicate Detection System
+
+Designed and implemented a software solution to automate fuel invoice generation and validation
+
+Applied OCR and logical similarity matching to detect duplicate and fraudulent invoices
+
+Processed 1000+ invoices, reducing manual verification and improving billing accuracy
+
+Focused on backend logic, data handling, and system reliability
+
+Tech Stack: Java / Python, SQL, OCR, Backend Logic
+
+🔹 Smart India Hackathon (SIH) 2025
+
+Smart Tourist Safety System
+
+Contributed to a large-scale solution aimed at improving tourist safety using AI and Geo-Fencing
+
+Implemented real-time alert mechanisms for emergency detection and response
+
+Integrated secure data handling concepts using blockchain
+
+Designed the system with a focus on scalability, performance, and real-world feasibility
+
+Tech Stack: Java, AI Concepts, Geo-Fencing, Blockchain, Backend Integration
+
+🌱 Currently Working On
+
+Strengthening DSA through consistent problem solving
+
+Improving Java backend development skills
+
+Building Flutter applications with clean architecture
+
+Learning System Design fundamentals
+
+🤝 Open To
+
+Software Development Internships
+
+Java / Backend Developer roles (Intern / Fresher)
+
+Hackathons & collaborative software projects
+
+📫 Get in Touch
+
 LinkedIn: Ritika Sohane
 
 Email: ritikasohane365@gmail.com
 
-“Data tells a story — I’m here to listen and narrate it.”
-
-
-
+“I aim to become a software engineer who builds reliable systems, writes efficient code, and solves real-world problems through technology.”
