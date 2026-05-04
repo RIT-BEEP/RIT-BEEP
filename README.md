@@ -1,81 +1,103 @@
-Professional summary
-I am a BCA student and future Software Developer with a strong foundation in Java programming, Data Structures & Algorithms, and backend development concepts. I enjoy building scalable, efficient, and problem-driven software systems with a focus on clean architecture, optimized logic, and real-world usability.
+# Hi, I'm Ritika Sohane 👋
 
-My core interests lie in Java-based backend development, DSA-driven problem solving, and cross-platform application development using Flutter. I actively strengthen my algorithmic thinking, system design fundamentals, and coding practices to prepare for industry-level software engineering roles.
+I'm a Full Stack Developer who builds things that actually ship.
+React on the frontend, Node.js and Java Spring Boot on the backend — and I've deployed every project I'm proud of.
 
-💻 Technical Skills
+Currently a BCA student at ITM University, Gwalior — but I've already delivered a paid freelance project, placed in international hackathons, and been selected as an HPAIR 2025 delegate at The University of Tokyo.
 
-Programming & Core CS
+---
 
-Java (OOPs, Collections, Exception Handling)
+## What I build with
 
-Data Structures & Algorithms (Arrays, Strings, Linked Lists, Stacks, Queues, Trees)
+**Frontend**
+React.js · JavaScript (ES6+) · Tailwind CSS · HTML5 · CSS3 · Bootstrap
 
-Strong problem-solving & logical reasoning
+**Backend**
+Node.js · Express.js · Java 17 · Spring Boot 3 · Flask (Python) · REST APIs
 
-Backend & Application Development
+**Databases**
+MongoDB · MySQL · Hibernate (JPA)
 
-Java backend fundamentals & REST API concepts
+**Tools**
+Git · GitHub · Postman · Render · Railway · VS Code · IntelliJ IDEA
 
-Database Management: MySQL
+---
 
-SQL querying & structured data handling
+## Projects I'm proud of
 
-Flutter (cross-platform mobile app development)
+### LexStudy — Legal Study Portal
+> Java 17 · Spring Boot 3 · REST API · Railway · **Paid freelance project**
 
-Tools & Technologies
+A full-stack legal resource portal built for a paying client.
+PDF browsing, upload/download system, real-time download tracking, and category filtering across 6 legal subjects.
+Live and running since delivery.
 
-Git & GitHub (version control)
+🔗 [Live site](https://legal-study-portal-production.up.railway.app) · [GitHub](https://github.com/RITBEEP)
 
-Basic Linux & command-line usage
+---
 
-IntelliJ IDEA, VS Code
+### PlanMyTrip — Smart Trip Planner
+> React.js · Node.js · Express.js · Google Maps API
+> Budget-based trip planner covering 50+ Indian cities.
+Multi-tier hotel and flight filtering engine with Google Maps route visualization.
+Built end-to-end — UI, API, data modelling, deployment.
 
-Familiar with Agile workflows
+🔗 [GitHub](https://github.com/RITBEEP)
 
-🏆 Hackathons & Key Projects
+---
 
-AI Odyssey Hackathon 2025
-AI-Powered Fuel Invoice Generator & Duplicate Detection System
+### CINELYZE — Movie Review Analyser
+> Python · Flask · JavaScript · OMDB API · Render
 
-Automated invoice generation & validation, reducing manual effort by ~70%
+NLP sentiment classifier (Positive / Negative / Neutral) with an automated verdict engine (Watch / Skip / Maybe).
+Tested across 1,000+ titles and 100+ user reviews. Deployed live.
 
-OCR-based extraction with similarity matching (~85% accuracy)
+🔗 [Live site](https://lnkd.in/dCBUEPsY) · [GitHub](https://github.com/RITBEEP)
 
-Processed 1000+ invoices, improving efficiency by ~60%
+---
 
-Tech Stack: Java, Python, SQL, OCR
+## Hackathons
+**AI Odyssey 2025** — AI-Powered Fuel Invoice Generator
+OCR-based extraction with ~85% accuracy · Processed 1,000+ invoices · Reduced manual effort by ~70%
+*Tech: Java · Python · SQL · OCR*
 
-Smart India Hackathon (SIH) 2025
-Smart Tourist Safety System
+**Smart India Hackathon (SIH) 2025** — Smart Tourist Safety System
+Real-time geo-fencing alerts · Blockchain-based data handling · Improved incident detection by ~65%
+*Tech: Java · AI · Geo-Fencing · Blockchain*
 
-Improved incident detection & alert response by ~65%
+---
 
-Implemented real-time geo-fencing alerts
+## What I'm working on right now
 
-Applied blockchain-based secure data handling
+- Daily DSA practice in Java (LeetCode)
+- Building Flutter apps with clean architecture
+- Deepening system design fundamentals
+- Exploring cloud deployment (AWS basics)
 
-Tech Stack: Java, AI Concepts, Geo-Fencing, Blockchain
+---
 
-🚀 Currently Working On
+## A few things that set me apart
 
-Consistent DSA practice (C++)
+- Delivered a full-stack project for a **paying client** — not just side projects
+- Selected as **HPAIR 2025 Asia Conference Delegate** at The University of Tokyo
+- Presented **MediTrack** (AI + IoT smart pillbox) at **IREP 2026 International Conference**
+- **NPTEL Elite Certification** in Programming in Java — Top 5%
 
-Strengthening Java backend skills
+---
 
-Building Flutter apps with clean architecture
+## Open to
 
-Learning system design fundamentals
+Remote · Hybrid · On-site · Freelance
+Software Developer Internships · Junior Full Stack Roles · Java/Backend roles
 
-🤝 Open To
+---
 
-Software Development Internships
+## Let's connect
 
-Java / Backend Developer roles (Intern / Fresher)
+📧 ritikasohane365@gmail.com
+💼 [LinkedIn](https://www.linkedin.com/in/ritika-sohane)
+🐙 [GitHub](https://github.com/RITBEEP)
 
-Hackathons & collaborative projects
+---
 
-📫 LinkedIn: Ritika Sohane
-📧 Email: ritikasohane365@gmail.com
-
-“I aim to become a software engineer who builds reliable systems, writes efficient code, and solves real-world problems through technology.”
+*I write code that ships. If you're building something real and need someone who gets things done — let's talk.*
